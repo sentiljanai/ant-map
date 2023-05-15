@@ -1,6 +1,6 @@
 {
   "type": "FeatureCollection",
-  "features": [ 
+  "features": [
     {
       "type": "Feature",
       "properties": {
@@ -13113,7 +13113,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vietnam"
+        "name": "Viet Nam"
       },
       "geometry": {
         "type": "Polygon",
