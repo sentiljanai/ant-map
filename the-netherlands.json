@@ -669,7 +669,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Friesland",
+        "name": "Friesland (NL)",
         "created_at": "2013-11-30T17:55:36+0100",
         "updated_at": "2013-11-30T17:55:36+0100",
         "cartodb_id": 3
@@ -6935,7 +6935,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Limburg",
+        "name": "Limburg (NL)",
         "created_at": "2013-11-30T17:55:36+0100",
         "updated_at": "2013-11-30T17:55:36+0100",
         "cartodb_id": 11
